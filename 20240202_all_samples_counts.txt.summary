@@ -1,0 +1,15 @@
+Status	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/Bcells_rep1_SRR1533847.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/Bcells_rep2_SRR1533848.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/Bcells_rep3_SRR1533849.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/BoneMarrow_cells_rep1_SRR1533862.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/BoneMarrow_cells_rep2_SRR1533863.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/BoneMarrow_cells_rep3_SRR1533864.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/T_CD4cells_rep1_SRR1533853.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/T_CD4cells_rep2_SRR1533854.bam	/home/ttm3567/WinterLab/Fastq_Download_Epigenomics_Class_20240130/Epigenomics_Pipeline_rerun_trimmomatic_20240202/T_CD4cells_rep4_SRR1533856.bam
+Assigned	6697139	3086201	6269414	3664972	6898607	5558352	3081349	7423611	3601739
+Unassigned_Unmapped	819173	395164	843048	811753	1198407	1020277	427918	1066955	526293
+Unassigned_Read_Type	0	0	0	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0	0	0	0
+Unassigned_MultiMapping	0	0	0	0	0	0	0	0	0
+Unassigned_Secondary	0	0	0	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0	0	0	0
+Unassigned_NoFeatures	12196394	5188728	10212444	6960696	13145537	9958188	5424215	12624606	5514325
+Unassigned_Overlapping_Length	0	0	0	0	0	0	0	0	0
+Unassigned_Ambiguity	1037	448	965	619	1051	828	359	882	491
